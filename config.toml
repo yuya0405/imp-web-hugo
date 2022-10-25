@@ -89,8 +89,11 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "DFKI"
+  title = "ドイツ人工知能研究所（DFKI）"
   href =  "https://www.dfki.de/en/web"
+  [[params.friend_link]]
+  title = "文書解析・知識科学研究所（IDAKS）"
+  href = "https://www.omu.ac.jp/orp/org/crc/idaks/"
 
   [[params.bookmark_link]]
   title =  "大阪公立大学"
