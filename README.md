@@ -1,4 +1,4 @@
-# imp-hp
+# imp-web-hugo
 
 ## Install
 ```
@@ -8,7 +8,7 @@ $ brew install hugo
 
 ## Quick Start
 ```
-cd test-imp-hp
+cd imp-web-hugo
 hugo serve
 ```
 
